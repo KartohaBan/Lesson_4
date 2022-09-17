@@ -9,8 +9,8 @@
 /*подкючения шрифтов larsseit*/
 @font-face {
   font-family: "Larsseit";
-  src: url("../fonts/larsseit/Larsseit-Medium.woff2") format("woff2"),
-    url("../fonts/larsseit/Larsseit-Medium.woff") format("woff");
+  src: url("../fonts/larsseit/Larsseit-Regular.woff2") format("woff2"),
+    url("../fonts/larsseit/Larsseit-Regular.woff") format("woff");
   font-display: swap;
   font-weight: 400;
   font-style: normal;
@@ -18,10 +18,10 @@
 
 @font-face {
   font-family: "Larsseit";
-  src: url("../fonts/larsseit/Larsseit-Regular.woff2") format("woff2"),
-    url("../fonts/larsseit/Larsseit-Regular.woff") format("woff");
+  src: url("../fonts/larsseit/Larsseit-Medium.woff2") format("woff2"),
+    url("../fonts/larsseit/Larsseit-Medium.woff") format("woff");
   font-display: swap;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
 }
 
