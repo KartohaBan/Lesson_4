@@ -1,0 +1,90 @@
+/*==============================================================*/
+/*подкючения шрифтов  Roboto*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,500&display=swap');
+/*=========================================================*/
+/*подкючения шрифтов  Lato*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+/*==============================================================*/
+/*подкючения шрифтов larsseit*/
+@font-face {
+  font-family: "Larsseit";
+  src: url("../fonts/larsseit/Larsseit-Regular.woff2") format("woff2"),
+    url("../fonts/larsseit/Larsseit-Regular.woff") format("woff");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Larsseit";
+  src: url("../fonts/larsseit/Larsseit-Medium.woff2") format("woff2"),
+    url("../fonts/larsseit/Larsseit-Medium.woff") format("woff");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Larsseit";
+  src: url("../fonts/larsseit/Larsseit-Bold.woff2") format("woff2"),
+    url("../fonts/larsseit/Larsseit-Bold.woff") format("woff");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/*==============================================================*/
+
+body {
+  font-family: 'Lato';
+  font-weight: 600;
+}
+
+header img {
+  width: 100px;
+  height: 100px;
+}
+
+a {
+  font-size: 15px;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 60px;
+  color: rgba(0, 149, 255, 0.94);
+  text-align: center;
+  font-weight: 900;
+}
+
+h2 {
+  font-size: 30px;
+  color: rgb(255, 189, 9);
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+h2 span {
+  font-size: 40px;
+  color: rgba(0, 149, 255, 0.94);
+}
+
+p span {
+  font-weight: 900;
+  font-size: 40px;
+  color: rgba(0, 149, 255, 0.94);
+}
+
+h2 span {
+  color: rgba(0, 149, 255, 0.94);
+}
+
+/* ============================================================ */
+/* ============================================================ */
+/* ============================================================ */
+/* ============================================================ */
+/* ============================================================ */
